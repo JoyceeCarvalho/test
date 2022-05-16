@@ -12,4 +12,5 @@ void main(){
     for(k=0;k<lim;k++){
         printf("%3d",n[k]);
     }
+    system("pause");
 }
